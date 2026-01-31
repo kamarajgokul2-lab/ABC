@@ -1,0 +1,11 @@
+transaction_id,date,time,receiver,amount,predicted_category
+TXN1001,2025-01-01,10:15,Zomato,350,Food
+TXN1002,2025-01-01,13:40,Uber,220,Travel
+TXN1003,2025-01-02,20:10,Netflix,499,Entertainment
+TXN1004,2025-01-02,19:30,Amazon,1299,Shopping
+TXN1005,2025-01-03,09:00,Electricity Bill,1850,Bills
+TXN1006,2025-01-03,21:15,Swiggy,280,Food
+TXN1007,2025-01-04,18:45,PVR Cinemas,600,Entertainment
+TXN1008,2025-01-04,11:30,Ola,180,Travel
+TXN1009,2025-01-05,14:20,Flipkart,2400,Shopping
+TXN1010,2025-01-05,08:50,Mobile Recharge,299,Bills
